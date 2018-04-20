@@ -1,0 +1,14 @@
+{
+  "parentKey": [
+    {
+      "childKey": "child value 1"
+    },
+    {
+      "childKey": "value child 2"
+    }
+  ]
+}
+  double space&nbsp;&nbsp;
+single slash \
+new line \n
+double newline \n\n
